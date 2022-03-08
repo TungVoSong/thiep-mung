@@ -3,9 +3,9 @@
 // Mr-Nam http://facebook.com/nam.nodemy
 // Các bạn muốn học lập trình thì tham gia Nhóm zalo tự học lập trình nhé: https://zalo.me/g/yhdkef092
 
-var to = nameGirl;
-var gift_url = giftUrl;
-var gift_image_url = giftImage || giftImageBase64;
+var to = 'xin chào';
+var gift_url = 'https://www.facebook.com/raigeki.kaminari.1';
+var gift_image_url = 'hot-girl.png';
 
 var nametag = document.getElementById("nametag");
 var present = document.getElementById("present");
